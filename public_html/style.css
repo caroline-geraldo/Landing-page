@@ -1,0 +1,82 @@
+
+body{
+    margin: 0em;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    background-color: rgb(240, 240, 240);
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    color: #013333;
+    font-weight: lighter;
+}
+
+h2{
+    font-weight: lighter;
+}
+
+a{
+    font-size: 40px;
+}
+
+a:hover{
+    text-decoration:none;
+    color: pink;
+}
+
+#banner{
+    background-color: white;
+    margin: 35px;
+    border-radius: 3px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 2px 2px rgb(240, 240, 240);
+}
+
+.features{
+    text-align: center;
+    padding: 50px;
+    font-weight: lighter;
+    
+}
+
+#header{
+    text-align: center;
+    background-image: url("https://unsplash.it/1300/600?randon");
+    background-size: cover;
+    padding: 150px;
+    color: white;
+    text-shadow: 1px 1px 5px black;
+}
+
+#header h1{
+    color: white;
+    font-size: 50px;
+
+}
+#header p{
+    color: white;
+    
+    font-size: 30px;
+    font-weight: lighter;
+}
+
+#footer{
+    background-color: black;
+    background: rgb(30, 30, 30);
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+.card{
+    padding: 50px;
+    font-weight: lighter;
+}
+
+#footer a{
+    color: lightgrey;
+    font-size: 15px;
+}
